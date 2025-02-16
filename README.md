@@ -28,7 +28,7 @@ Este projeto tem como objetivo desenvolver uma aplicação para armazenar inform
    ```
 2. Acesse o diretório do projeto:
    ```bash
-   cd nome-do-repositorio
+   cd ScreenSound
    ```
 3. Configure o banco de dados PostgreSQL no `application.properties`;
 4. Compile e execute o projeto:
