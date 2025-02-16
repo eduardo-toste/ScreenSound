@@ -1,4 +1,4 @@
-package com.example.screensound.Principal;
+package com.example.screensound.principal;
 
 import java.util.Scanner;
 
