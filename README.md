@@ -1,6 +1,6 @@
 # ScreenSound
 
-## Sobre o Desafio
+## Sobre o Projeto
 Este projeto tem como objetivo desenvolver uma aplicação para armazenar informações sobre artistas e músicas em um banco de dados relacional. A aplicação permitirá o cadastro de artistas e suas músicas, além de consultas para facilitar a organização e recuperação dessas informações.
 
 ## Funcionalidades
